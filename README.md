@@ -15,3 +15,5 @@ Livewire is a full-stack framework for Laravel that makes building dynamic inter
 
 Livewire is not a total replacement for frontend libraries or frameworks. Because of its unique reactive nature, every binding, method call or event handling is a round-trip to the backend. If you want to have full control over how frontend and backend behave separately or if your frontend component does not rely on data exchange with backend, creating pure Vue components would be a better option than using Livewire. But if you want to create a frontend component which actively needs to communicate with backend, Livewire makes it super easy to archive.
     
+Learning Reference: 
+- Different Websites
